@@ -1,0 +1,14 @@
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.deps.json
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.runtimeconfig.json
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.runtimeconfig.dev.json
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.dll
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\bin\Debug\netcoreapp2.2\Advantage.API.pdb
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.csprojAssemblyReference.cache
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.csproj.CoreCompileInputs.cache
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorAssemblyInfo.cache
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorAssemblyInfo.cs
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.AssemblyInfoInputs.cache
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.AssemblyInfo.cs
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.RazorTargetAssemblyInfo.cache
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.dll
+C:\Users\Augustinas PC\Desktop\Coding\Advantage.API\obj\Debug\netcoreapp2.2\Advantage.API.pdb
