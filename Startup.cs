@@ -28,6 +28,12 @@ namespace Advantage.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // Cross domain access is not allowed. For this reason we need to allow Cors policies. In this case we made really lax policies which allo anyheader, anyOrigin and anyMethod.
+            services.AddCors(opt => {
+                opt.AddPolicy("CorsPolicy",
+                c => c.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+            });
+
             _connectionString = Configuration["secretConnectionString"];
             
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
@@ -43,6 +49,8 @@ namespace Advantage.API
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                // During runtime allow all policies 
+                app.UseCors("CorsPolicy");
             }
             else
             {
